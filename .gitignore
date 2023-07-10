@@ -105,3 +105,4 @@ dist
 package-lock.json
 doc/.DS_Store
 doc/images/.DS_Store
+.DS_Store
