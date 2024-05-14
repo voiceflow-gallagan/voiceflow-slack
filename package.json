@@ -33,7 +33,7 @@
     "axios": "^0.26.0",
     "escape-html": "^1.0.3",
     "eslint": "^8.10.0",
-    "slate": "^0.73.1",
+    "slate": "^0.103.0",
     "string-similarity": "^4.0.4"
   }
 }
