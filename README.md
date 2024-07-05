@@ -205,6 +205,13 @@ In the Secrets tab, you can click on Edit as JSON button and paste the following
   "SLACK_SIGNING_SECRET":"XXXXXXX"
 }
 ```
+![Set secrets](doc/images/replit/secrets.png)
+
+### Set your App type
+
+> Set the App type to Background Worker
+
+![Set app type](doc/images/replit/type.png)
 
 ## ![Slack logo](doc/images/slack/slack-logo.png)
 
